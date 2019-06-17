@@ -1142,7 +1142,7 @@ var VesselDetailsComponent = /** @class */ (function () {
 /*! exports provided: esserver, default */
 /***/ (function(module) {
 
-module.exports = {"esserver":"http://10.11.1.70:9200"};
+module.exports = {"esserver":"wrongServerAddress"};
 
 /***/ }),
 
