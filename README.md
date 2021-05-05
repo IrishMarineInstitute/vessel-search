@@ -1,3 +1,5 @@
+# IMPORTANT - this repo is not currently being maintained.  If you are planning on using this code you are strongly advised to update all packages in the repo before using it!
+
 # VesselSearch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
